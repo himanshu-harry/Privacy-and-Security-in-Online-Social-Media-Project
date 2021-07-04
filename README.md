@@ -1,4 +1,4 @@
-# Privacy-and-Security-in-Online-Social-Media-Project
+# Privacy-and-Security-in-Online-Social-Media- Hands-on excercies
 
 **Assignment 1**
 
